@@ -1,0 +1,16 @@
+E:\Conestoga\PROG3170-Distributed\A1\wcf-assignment1\Assignment1WCF\Assignment1Console\bin\Debug\Assignment1Console.exe.config
+E:\Conestoga\PROG3170-Distributed\A1\wcf-assignment1\Assignment1WCF\Assignment1Console\bin\Debug\Assignment1Console.exe
+E:\Conestoga\PROG3170-Distributed\A1\wcf-assignment1\Assignment1WCF\Assignment1Console\bin\Debug\Assignment1Console.pdb
+E:\Conestoga\PROG3170-Distributed\A1\wcf-assignment1\Assignment1WCF\Assignment1Console\obj\Debug\Assignment1Console.csproj.AssemblyReference.cache
+E:\Conestoga\PROG3170-Distributed\A1\wcf-assignment1\Assignment1WCF\Assignment1Console\obj\Debug\Assignment1Console.csproj.SuggestedBindingRedirects.cache
+E:\Conestoga\PROG3170-Distributed\A1\wcf-assignment1\Assignment1WCF\Assignment1Console\obj\Debug\Assignment1Console.csproj.CoreCompileInputs.cache
+E:\Conestoga\PROG3170-Distributed\A1\wcf-assignment1\Assignment1WCF\Assignment1Console\obj\Debug\Assignment1Console.exe
+E:\Conestoga\PROG3170-Distributed\A1\wcf-assignment1\Assignment1WCF\Assignment1Console\obj\Debug\Assignment1Console.pdb
+E:\Conestoga\PROG3170-Distributed\A1\wcf-assignment1\Assignment1Console\bin\Debug\Assignment1Console.exe.config
+E:\Conestoga\PROG3170-Distributed\A1\wcf-assignment1\Assignment1Console\bin\Debug\Assignment1Console.exe
+E:\Conestoga\PROG3170-Distributed\A1\wcf-assignment1\Assignment1Console\bin\Debug\Assignment1Console.pdb
+E:\Conestoga\PROG3170-Distributed\A1\wcf-assignment1\Assignment1Console\obj\Debug\Assignment1Console.csproj.AssemblyReference.cache
+E:\Conestoga\PROG3170-Distributed\A1\wcf-assignment1\Assignment1Console\obj\Debug\Assignment1Console.csproj.SuggestedBindingRedirects.cache
+E:\Conestoga\PROG3170-Distributed\A1\wcf-assignment1\Assignment1Console\obj\Debug\Assignment1Console.csproj.CoreCompileInputs.cache
+E:\Conestoga\PROG3170-Distributed\A1\wcf-assignment1\Assignment1Console\obj\Debug\Assignment1Console.exe
+E:\Conestoga\PROG3170-Distributed\A1\wcf-assignment1\Assignment1Console\obj\Debug\Assignment1Console.pdb
