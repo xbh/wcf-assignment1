@@ -18,5 +18,3 @@ GNU General Public License v3.0
 Free to Commercial use, Modification, Distribution, Patent use, Private use
 
 Use with NO Warranty
-
-some modification
