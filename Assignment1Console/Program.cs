@@ -46,8 +46,9 @@ namespace Assignment1Console {
                     {
                         Console.WriteLine("Invalid option");
                     }
-                } catch (Exception) {
+                } catch (Exception e) {
                     Console.WriteLine("Invalid Input");
+                    Console.WriteLine(e.Message);
                 }
             }
         }
