@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\Conestoga\PROG3170-Distributed\A1\wcf-assignment1\Assignment1WcfService\bin\app.publish\</_PublishTargetUrl>
+    <History>True|2022-10-12T23:07:51.3366395Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Assignment1WcfService.dll">
+      <publishTime>10/12/2022 19:07:51</publishTime>
+    </File>
+    <File Include="bin/Assignment1WcfService.pdb">
+      <publishTime>10/12/2022 19:07:51</publishTime>
+    </File>
+    <File Include="Service.svc">
+      <publishTime>09/28/2022 18:58:46</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/12/2022 19:07:51</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
