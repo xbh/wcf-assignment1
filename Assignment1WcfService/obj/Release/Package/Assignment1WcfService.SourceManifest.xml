@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="E:\Conestoga\PROG3170-Distributed\A1\wcf-assignment1\Assignment1WcfService\obj\Release\Package\PackageTmp" managedRuntimeVersion="v4.0" />
+  <setAcl path="E:\Conestoga\PROG3170-Distributed\A1\wcf-assignment1\Assignment1WcfService\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="E:\Conestoga\PROG3170-Distributed\A1\wcf-assignment1\Assignment1WcfService\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

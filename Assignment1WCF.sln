@@ -30,6 +30,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment1Console", "Assig
 		{2BB7E719-03D7-494C-BFBB-EB57FBD80484} = {2BB7E719-03D7-494C-BFBB-EB57FBD80484}
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment1WcfService", "Assignment1WcfService\Assignment1WcfService.csproj", "{B4855B06-D663-4250-97A7-3834CE64643F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,6 +46,10 @@ Global
 		{FDC990C1-D2EB-4281-9933-F72218E04597}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDC990C1-D2EB-4281-9933-F72218E04597}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDC990C1-D2EB-4281-9933-F72218E04597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4855B06-D663-4250-97A7-3834CE64643F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4855B06-D663-4250-97A7-3834CE64643F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4855B06-D663-4250-97A7-3834CE64643F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4855B06-D663-4250-97A7-3834CE64643F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
