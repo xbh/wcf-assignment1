@@ -9,6 +9,7 @@ using System.Text;
 // NOTE: You can use the "Rename" command on the "Refactor" menu to change the class name "Service" in code, svc and config file together.
 public class Service : IService
 {
+    // determine if a number is prime or not
     public string PrimeNumber(int num)
     {
         if (num > 1 && Enumerable.Range(1, num).Where(x => num % x == 0).SequenceEqual(new[] { 1, num }))
